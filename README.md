@@ -1,6 +1,6 @@
 # mcp-ispkeeper
 
-Read-only MCP (Model Context Protocol) server for [ISPKeeper](https://ispkeeper.com) — ISP management software.
+Read-only MCP (Model Context Protocol) server for [ISPKeeper] by anatod (https://www.anatod.com) — ISP management software.
 
 Query clients, invoices, collections, internet connections, support tickets, network status, FTTx infrastructure, and more through any MCP-compatible client (Claude Desktop, Claude Code, etc.).
 
